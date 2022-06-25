@@ -14,4 +14,4 @@ if (operator == '+') {
     result = num1 / num2;
 }
 
-alert(result)
+alert(result);
